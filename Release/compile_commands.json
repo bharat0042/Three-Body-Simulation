@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/skull/data/builds/ThreeBodySim/Release",
+  "command": "/usr/bin/c++  -I/home/skull/data/builds/ThreeBodySim/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/ThreeBodySim.dir/src/Main.cpp.o -c /home/skull/data/builds/ThreeBodySim/src/Main.cpp",
+  "file": "/home/skull/data/builds/ThreeBodySim/src/Main.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/ThreeBodySim.dir/src/Main.cpp.o -o ThreeBodySim  -lsfml-graphics -lsfml-audio -lsfml-network -lsfml-window -lsfml-system 
